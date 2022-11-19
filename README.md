@@ -1,3 +1,3 @@
-#000 First Git
+# 000 First Git
 
 Still learning Git/GitHub intefaces
